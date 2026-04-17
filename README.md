@@ -51,7 +51,6 @@ The project is structured around three core operational questions:
 
 Each folder contains a specific analysis, including:
 - data preparation (ETL)
-- exploratory analysis (EDA)
 - KPI definition
 - business conclusions
 
